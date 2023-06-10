@@ -1,10 +1,10 @@
 import random
 import time
 import sys, subproocess
-subproocess.run("clear" shell=true)
+subproocess.run("clear", shell=true)
 print("ElxOluşturu açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
-subproocess.run("clear" shell=true)
+subproocess.run("clear", shell=true)
 adet=int(input("Kaç Adet TC kimlik No İstesiniz?="))
 i=1
 while i<=adet:
