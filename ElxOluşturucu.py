@@ -14,9 +14,10 @@ print("//               //                   \\//         //                  //
 print("//               //                  //  \\        //                  //            \\")
 print("///////////////  /////////////      //    \\       //////////////      //            \\")
 print("_______________________________________________________________________________________")
-adet=int(input("Kaç Adet TC kimlik No İstesiniz?="))
+adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
 print("TAMAMDIR")
 print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
+time.sleep(3)
 i=1
 
 while i<=adet:
