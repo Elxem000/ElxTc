@@ -5,8 +5,17 @@ os.system("clear")
 print("ElxOluşturu açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
 os.system("clear")
+print("//////////////   //               \\ -⁠ᄒ⁠ᴥ⁠ᄒ⁠- //     //////////////      //            \\")
+print("//               //                \\      //      //                  // //      \\ \\")
+print("//               //                 \\    //       //                  //   //  \\   \\")
+print("///////////////  //                  \\  //        //////////////      //     /\     \\")
+print("//               //                   \\//         //                  //            \\")
+print("//               //                  //  \\        //                  //            \\")
+print("///////////////  /////////////      //    \\       //////////////      //            \\")
 adet=int(input("Kaç Adet TC kimlik No İstesiniz?="))
+os.system("clear")
 i=1
+
 while i<=adet:
     a1=random.randint(1,9)
     a2=random.randint(0,9)
