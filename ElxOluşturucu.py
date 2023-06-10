@@ -14,7 +14,13 @@ print(" //               //                   \\//         //                  /
 print(" //               //                  //  \\        //                  //            \\ ")
 print(" ///////////////  /////////////      //    \\       //////////////      //            \\ ")
 print("________________________________________________________________________________________ ")
-adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
+while (true)
+    try:
+        adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
+    except ValueError:
+        print("Lütfen sayı giriniz.")
+        print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
+        return
 print("TAMAMDIR")
 print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
 time.sleep(3)
