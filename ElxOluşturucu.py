@@ -20,7 +20,7 @@ while true:
     except ValueError:
         print("Lütfen sayı giriniz.")
         print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
-    return
+return
 print("TAMAMDIR")
 print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
 time.sleep(3)
