@@ -21,6 +21,7 @@ while True:
         print("Lütfen sayı giriniz.")
         print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
         continue
+break 
 print("TAMAMDIR")
 print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
 time.sleep(3)
