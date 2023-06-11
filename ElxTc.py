@@ -64,6 +64,13 @@ while True:
    
             
     def sorgu():
+        
+        os.system("clear")
+        print("{_________________}")
+        print("|   TİKTOK:Elxem  |")
+        print("|     (⁠・⁠∀⁠・⁠)     |")
+        print("{________&&_______}")
+
         def encodeTc(tc):
             sum = 0
             for i in tc:
@@ -73,6 +80,8 @@ while True:
         def decodeTc(girilen_tc):
             if len(girilen_tc)!=11:
                print("Geçerli bir TC Kimlik Numarası giriniz!")
+               print("(⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)")
+               tclogin()
                return
             encodedtc=encodeTc(girilen_tc[0:10])
             return girilen_tc == encodedtc
@@ -82,9 +91,15 @@ while True:
             if result == None:
                 quit()
             elif not result:
+                print("______________________________________________")
                 print("Girdiğiniz TC Kimlik numarası gerçek değildir.")
+                print("ʕ⁠´⁠•⁠ ⁠ᴥ⁠•̥⁠`⁠ʔ")
+                print("______________________________________________")
             elif result:
+                print("________________________________________")
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
+                print("ᕙ⁠(⁠＠⁠°⁠▽⁠°⁠＠⁠)⁠ᕗ")
+                print("________________________________________")
         tclogin()
     if ( abc == 1 ):
         oluş()
