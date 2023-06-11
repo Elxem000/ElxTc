@@ -11,6 +11,7 @@ while True:
         print("Lütfen sadece 1 veya 2 giriniz.")
         print("(;⁠ー⁠_⁠ー⁠)")
         continue
+     break 
  
     elif(abc==1):
 
