@@ -102,13 +102,13 @@ while True:
 
                  quit()
 
-            elif not result:
+             elif not result:
 
-                print("Girdiğiniz TC Kimlik numarası gerçek değildir.")
+                 print("Girdiğiniz TC Kimlik numarası gerçek değildir.")
 
-            elif result:
+             elif result:
 
-                print("Geçerli Bir TC Kimlik numarası girdiniz.")
+                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
 
          tclogin()
     
