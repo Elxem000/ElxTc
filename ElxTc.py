@@ -92,7 +92,7 @@ while True:
     if(abc == 2):
         sorgu()
 
-    else:
+    if(abc != 1 and 2 ):
         os.system("clear")
         print("Lütfen sadece 1 veya 2 giriniz.")
         print("(#ー⁠_⁠ー⁠)")
