@@ -13,7 +13,7 @@ while True:
         continue
     break 
  
-    elif(abc==1):
+    if (abc==1):
 
         while True:
             os.system("clear")
