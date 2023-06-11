@@ -27,7 +27,7 @@ while True:
             print(" ///////////////  /////////////      //    \\       ")
             print("__________________________________________________  ")
             try:
-                adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
+                adet=int(input("|Kaç Adet TC kimlik No İstersiniz?|=>"))
             except ValueError:
                 print("Lütfen sayı giriniz.")
                 print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
