@@ -85,9 +85,10 @@ while True:
             elif result:
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
                 tclogin()
-    if (abc==1):
+    if (abc== 1 ):
         oluşturcu()
-    elif (abc==2):
+        print(".")
+    elif (abc== 2 ):
         sorgu()
 
     else:
