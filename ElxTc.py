@@ -60,13 +60,7 @@ while True:
             print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
             break
-                
-    else:
-        os.system("clear")
-        print("Lütfen sadece 1 veya 2 giriniz.")
-        print("(⁠;´⁠-⁠﹏⁠-)")
-        continue
-    break
+            
     if (abc==2):
         def encodeTc(tc):
             sum = 0
@@ -90,5 +84,11 @@ while True:
             elif result:
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
         tclogin()
-    
-              
+
+    else:
+        os.system("clear")
+        print("Lütfen sadece 1 veya 2 giriniz.")
+        print("(#ー⁠_⁠ー⁠)")
+        continue
+    break
+   
