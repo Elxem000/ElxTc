@@ -1,4 +1,4 @@
-
+cd
 clear
 echo "ElxTc kuruluyor…⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ"
 
