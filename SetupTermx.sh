@@ -15,4 +15,4 @@ pip install time
 
 clear
 
-echo "(⁠＾⁠3⁠＾⁠♪ ElxTc Kurulumu biti."
+echo "(⁠＾⁠3⁠＾⁠♪) ElxTc Kurulumu biti."
