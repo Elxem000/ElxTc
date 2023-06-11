@@ -27,6 +27,7 @@ while True:
                 print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
                 continue
             break 
+        break
     print("TAMAMDIR")
     print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
     time.sleep(3)
