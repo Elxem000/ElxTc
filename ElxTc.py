@@ -13,7 +13,7 @@ while True:
 
     abc=int(input("Hangisini:"))
  
-    def oluşturucu():
+    if(abc == 1 ):
 
         while True:
             os.system("clear")
@@ -62,7 +62,7 @@ while True:
             break
    
             
-    def sorgu():
+    if(abc ==2 ):
         def encodeTc(tc):
             sum = 0
             for i in tc:
@@ -86,11 +86,9 @@ while True:
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
                 tclogin()
                 
-    if(abc == 1):
-        oluşturucu()
+
         
-    elif(abc == 2):
-        sorgu()
+
     
     break
    
