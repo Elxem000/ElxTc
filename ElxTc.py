@@ -51,8 +51,8 @@ while True:
                 print("________________________________________")
                 i=i+1
                 time.sleep(0.5)
-                print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
-                print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
+            print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
+            print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
             break
                 
