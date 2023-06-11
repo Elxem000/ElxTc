@@ -12,7 +12,7 @@ while True:
         print("(;⁠ー⁠_⁠ー⁠)")
         continue
  
-    else abc==1:
+    else (abc==1):
 
         while True:
             os.system("clear")
