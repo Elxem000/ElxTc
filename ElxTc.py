@@ -62,7 +62,7 @@ while True:
             break
    
             
-    if(abc ==2 ):
+    if(abc == 2 ):
         def encodeTc(tc):
             sum = 0
             for i in tc:
