@@ -89,7 +89,7 @@ while True:
     if(abc == 1):
         oluşturucu()
         
-    if(abc == 2):
+    elif(abc == 2):
         sorgu()
     
     break
