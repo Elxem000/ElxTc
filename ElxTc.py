@@ -54,7 +54,6 @@ while True:
                 print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
                 print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
-                break
             break
                 
     else:
