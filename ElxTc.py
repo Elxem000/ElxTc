@@ -60,7 +60,7 @@ while True:
             print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
             break
-    break
+   
             
     def sorgu():
         def encodeTc(tc):
@@ -85,10 +85,11 @@ while True:
             elif result:
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
                 tclogin()
-    if (abc== 1 ):
-        oluşturcu()
-        print(".")
-    elif (abc== 2 ):
+                
+    if(abc == 1):
+        oluşturucu()
+        
+    if(abc == 2):
         sorgu()
 
     else:
