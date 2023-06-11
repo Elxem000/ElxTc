@@ -8,7 +8,7 @@ rmdir ElxTc0lu-turucu
 
 clear
 
-git clone https://github.com/Elxem000/ElxTc0lu-turucu
+git clone https://github.com/Elxem000/ElxTc
 
 clear
 
