@@ -60,7 +60,7 @@ while True:
             print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
             break
-   
+    if:break 
             
     if (abc==2):
         def encodeTc(tc):
