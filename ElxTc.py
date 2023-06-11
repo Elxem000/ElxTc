@@ -6,7 +6,7 @@ print("ElxTc açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
 os.system("clear")
 while True:
-    abc=int(input("Hangisini İstersiniz"))
+    abc=int(input("Hangisini:"))
  
     if (abc==1):
 
