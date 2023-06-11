@@ -7,7 +7,7 @@ time.sleep(3)
 os.system("clear")
 while True:
     abc=int(input("Hangisini İstersiniz"))
-    if abc!=int(1 and 2):
+    if abc != int( 1 and 2 ):
         print("Lütfen sadece 1 veya 2 giriniz.")
         print("(;⁠ー⁠_⁠ー⁠)")
         continue
