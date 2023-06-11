@@ -1,10 +1,10 @@
 cd ..
 
-rm -fr ElxTc0lu-turucu
+rm -fr ElxTc
 
 clear
 
-rmdir ElxTc0lu-turucu
+rmdir ElxTc
 
 clear
 
@@ -16,6 +16,6 @@ figlet "JuanE" | lolcat
 
 cd
 
-echo "ElxTc0lu-turucu güncelendi."
+echo "ElxTc güncelendi."
 
 echo "(⁠;ꈍ⁠ᴗ⁠ꈍ⁠)"
