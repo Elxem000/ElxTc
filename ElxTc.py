@@ -5,7 +5,7 @@ os.system("clear")
 print("ElxTc açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
 os.system("clear")
-while abc != int(1 and 2):
+while abc != int(1 and :
     print("|---------------------|(⁠⊙⁠_⁠◎⁠)")
     print("| 1 => TC oluşturmak. |")
     print("| 2 => TC sorgulamak. |")
