@@ -94,5 +94,5 @@ if ( abc == 2 ):
     if(abc != int(1 and 2)):
         print("Lütfen 1 veya 2 giriniz.")
         print("(⁠#ー⁠_⁠ー)")
-        continue
+        
     break 
