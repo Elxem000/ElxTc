@@ -4,6 +4,7 @@ import os
 os.system("clear")
 print("ElxOluşturu açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
+os.system("clear")
 while True:
     os.system("clear")
     print(" _______________________________________________________________________________________ ")
