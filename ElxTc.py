@@ -27,7 +27,7 @@ while True:
                 print("Lütfen sayı giriniz.")
                 print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
                 continue
-            break 
+            
             print("TAMAMDIR")
             print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
             time.sleep(3)
@@ -52,6 +52,9 @@ while True:
                 time.sleep(0.5)
                 print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
                 print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
+                
+                break
+                
     else:
         os.system("clear")
         print("Lütfen sadece 1 veya 2 giriniz.")
