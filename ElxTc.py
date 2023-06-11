@@ -6,6 +6,11 @@ print("ElxTc açılıyor …⁠ᘛ⁠⁐̤⁠ᕐ⁠ᐷ")
 time.sleep(3)
 os.system("clear")
 while True:
+    print("|---------------------|(⁠⊙⁠_⁠◎⁠)")
+    print("| 1 => TC oluşturmak. |")
+    print("| 2 => TC sorgulamak. |")
+    print("|---------------------|")
+
     abc=int(input("Hangisini:"))
  
     if (abc==1):
