@@ -7,11 +7,6 @@ time.sleep(3)
 os.system("clear")
 while True:
     abc=int(input("Hangisini İstersiniz"))
-    if abc != int( 1 and 2 ):
-        print("Lütfen sadece 1 veya 2 giriniz.")
-        print("(;⁠ー⁠_⁠ー⁠)")
-        continue
-    break 
  
     if (abc==1):
 
@@ -33,28 +28,35 @@ while True:
                 print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
                 continue
             break 
-        print("TAMAMDIR")
-        print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
-        time.sleep(3)
-        i=1
+            print("TAMAMDIR")
+            print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
+            time.sleep(3)
+            i=1
 
-        while i<=adet:
-            a1=random.randint(1,9)
-            a2=random.randint(0,9)
-            a3=random.randint(0,9)
-            a4=random.randint(0,9)
-            a5=random.randint(0,9)
-            a6=random.randint(0,9)
-            a7=random.randint(0,9)
-            a8=random.randint(0,9)
-            a9=random.randint(0,9)
-            a10=((((a1+a3+a5+a7+a9)*7)-(a2+a4+a6+a8))%10)
-            a11=((a1+a2+a3+a4+a5+a6+a7+a8+a9+a10)%10)
-            print("________________________________________")
-            print(i,".TC KİMLİK NO:",a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11)
-            print("________________________________________")
-            i=i+1
-            time.sleep(0.5)
-            print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
-            print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
-    break 
+            while i<=adet:
+                a1=random.randint(1,9)
+                a2=random.randint(0,9)
+                a3=random.randint(0,9)
+                a4=random.randint(0,9)
+                a5=random.randint(0,9)
+                a6=random.randint(0,9)
+                a7=random.randint(0,9)
+                a8=random.randint(0,9)
+                a9=random.randint(0,9)
+                 a10=((((a1+a3+a5+a7+a9)*7)-(a2+a4+a6+a8))%10)
+                 a11=((a1+a2+a3+a4+a5+a6+a7+a8+a9+a10)%10)
+                 print("________________________________________")
+                 print(i,".TC KİMLİK NO:",a1,a2,a3,a4,a5,a6,a7,a8,a9,a10,a11)
+                 print("________________________________________")
+                 i=i+1
+                time.sleep(0.5)
+                print("NOT:!!!Numaraların aralarında boşluklar vardır!!!")
+                print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
+    else:
+        os.system("clear")
+        print("Lütfen sadece 1 veya 2 giriniz.")
+        print("(⁠;´⁠-⁠﹏⁠-)")
+        continue
+    break
+    
+              
