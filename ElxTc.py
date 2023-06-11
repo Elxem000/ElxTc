@@ -60,6 +60,7 @@ while True:
             print("<⁠(⁠￣⁠︶⁠￣⁠)⁠↗")
                 
             break
+    break 
             
     if (abc==2):
         def encodeTc(tc):
@@ -75,7 +76,7 @@ while True:
             encodedtc=encodeTc(girilen_tc[0:10])
             return girilen_tc == encodedtc
         def tclogin():
-            a = input("Tc giriniz ")
+            a = input("Tc giriniz:")
             result = decodeTc(a)
             if result == None:
                 quit()
