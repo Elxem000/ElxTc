@@ -16,13 +16,12 @@ while True:
     print(" //               //                  //  \\        //                  //            \\ ")
     print(" ///////////////  /////////////      //    \\       //////////////      //            \\ ")
     print("________________________________________________________________________________________ ")
-
-     try:
-         adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
-     except ValueError:
-        print("Lütfen sayı giriniz.")
-        print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
-        continue
+    try:
+        adet=int(input("Kaç Adet TC kimlik No İstersiniz?"))
+    except ValueError:
+       print("Lütfen sayı giriniz.")
+       print("ฅ⁠^⁠•⁠ﻌ⁠•⁠^⁠ฅ")
+       continue
     break 
 print("TAMAMDIR")
 print("(⁠^⁠.⁠_⁠.⁠^⁠)⁠ﾉ")
