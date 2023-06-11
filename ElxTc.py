@@ -84,10 +84,10 @@ while True:
                 print("Girdiğiniz TC Kimlik numarası gerçek değildir.")
             elif result:
                 print("Geçerli Bir TC Kimlik numarası girdiniz.")
-        tclogin()
-    if abc=1:
+                tclogin()
+    if (abc==1):
         oluşturcu()
-    elif abc=2:
+    elif (abc==2):
         sorgu()
 
     else:
